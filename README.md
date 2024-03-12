@@ -81,11 +81,13 @@ The objectives of this challenge are:
 ## Candidate UI Testing Framework Recommendations
 
 1. Preferred UI testing will be Playwright which is suitable for Typescript and React:
+
    PROS
    - supports multiple browsers
    - fast
    - reliable
    - a lot of helpful locators
    - supports multiple programming language
+     
    CONS
    - Doesn't have a way to interact with MongoDB but it can access api endpoints
